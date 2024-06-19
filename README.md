@@ -23,6 +23,8 @@ yarn tauri build
 ![本地路径](/img/package-json.png)
 # tauri打包后axios请求失败(有对应插件可以解决)
 复现场景：开发环境直接启动没报错，构建成exe文件后启动报错
+感谢提供的案例,个人首页地址为https://github.com/M-1202
+![本地路径](/img/error.png)
 解决办法：https://github.com/persiliao/axios-tauri-api-adapter
 
 有个插件可以使用https://github.com/persiliao/axios-tauri-api-adapter
